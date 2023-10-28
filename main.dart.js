@@ -76245,7 +76245,7 @@ F(a){return A.pR(new A.Z4(),B.R,new A.aC(this.c,this.d,t.Y),t.i)}}
 A.Z4.prototype={
 $3(a,b,c){var s=null,r=t.w,q=a.J(r).f.a.a<=700?"\n":""
 r=!(a.J(r).f.a.a<=700)?"\n":""
-return A.c1("I'm a flutter developer since 2017,"+q+"I worked in office, "+r+"remotely and freelancing.",4,B.b1,A.lf(s,s,B.dJ,s,s,s,s,s,s,s,s,b,s,s,s,s,s,!0,s,s,s,s,s,s,s,2),s,s)},
+return A.c1("I'm a flutter developer since 2019,"+q+"I worked in office, "+r+"remotely and freelancing.",4,B.b1,A.lf(s,s,B.dJ,s,s,s,s,s,s,s,s,b,s,s,s,s,s,!0,s,s,s,s,s,s,s,2),s,s)},
 $S:92}
 A.Js.prototype={
 F(a){var s=null,r=A.cJ(20)
